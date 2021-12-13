@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+
+
+
+
+.comrade{
+    text-align: center;
+    
+    
+}
+.comrade h2 {
+    color: blueviolet;
+    font-family: cursive;
+    font-size: 100px;
+}
+.comrade h1{
+    color: blueviolet;
+    font-family: cursive;
+    font-size: 100px;
+
+}
+.btn button{
+    color: lime;
+    font-family: cursive;
+    font-size: 50px;
+    margin-left: 15px;
+    border-radius:20px;
+    border: 2px solid red;
+
+}
+
